@@ -1,0 +1,27 @@
+body{
+    background-color: #242424;
+    font-family: Red/Black, sans-serif;
+}
+
+.btn{
+    width: 6rem;
+    height: 2rem;
+    border: 3px solid;
+    border-color: white;
+    border-radius: 14px;
+    cursor: pointer;
+    color: #242424;
+    background-color: #b7bdb9;
+}
+
+
+#display{
+    color: #b7bdb9;
+    font-size: 8rem;
+}
+
+#container{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
